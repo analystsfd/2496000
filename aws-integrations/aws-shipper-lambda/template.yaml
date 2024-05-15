@@ -11,7 +11,7 @@ Metadata:
     SpdxLicenseId: Apache-2.0
     LicenseUrl: LICENSE
     ReadmeUrl: README.md
-    # NOTE: there is a 10 Label limit for metadata in the AWS Serverless Repo metadata
+    # NOTE: there is a 10 Label limit for metadata in the AWS Serverless Repo metadata!!
     Labels:
       - coralogix
       - logs
