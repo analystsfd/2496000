@@ -14,6 +14,7 @@ Parameters:
       - Singapore
       - US
       - US2
+      - US3
     Default: Custom
   CustomDomain:
     Type: String
